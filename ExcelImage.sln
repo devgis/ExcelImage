@@ -1,8 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWPF", "HWPF\HWPF.csproj", "{F040162E-F6F3-4B09-809B-3095A07A6687}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelImage", "ExcelImage\ExcelImage.csproj", "{8932CC07-C9E2-4DA9-848B-26D78B2C545C}"
 EndProject
 Global
@@ -11,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F040162E-F6F3-4B09-809B-3095A07A6687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F040162E-F6F3-4B09-809B-3095A07A6687}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F040162E-F6F3-4B09-809B-3095A07A6687}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F040162E-F6F3-4B09-809B-3095A07A6687}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8932CC07-C9E2-4DA9-848B-26D78B2C545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8932CC07-C9E2-4DA9-848B-26D78B2C545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8932CC07-C9E2-4DA9-848B-26D78B2C545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -22,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E32F5B-18EF-4CA1-B050-E088630B67D8}
 	EndGlobalSection
 EndGlobal
