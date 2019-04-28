@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExcelImage">
+</Property><Property Name="解决方案文件" Value="E:\Temp\ExcelImage\ExcelImage\ExcelImage.sln">
+</Property><Property Name="用户选项文件" Value="E:\Temp\ExcelImage\ExcelImage\ExcelImage.suo">
+</Property><Property Name="Date" Value="2017年9月27日">
+</Property><Property Name="Time" Value="8:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ExcelImage.sln" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ExcelImage.suo" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage.suo">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPF.csproj" Description="项目文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\HWPF.csproj">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPF.csproj.user" Description="项目用户文件成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\HWPF.csproj.user">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Class1.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Class1.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Extractor\Word6Extractor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Extractor\Word6Extractor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Extractor\WordExtractor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Extractor\WordExtractor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPFDocument.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\HWPFDocument.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPFDocumentCore.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\HWPFDocumentCore.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPFOldDocument.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\HWPFOldDocument.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\BaseObject.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\BaseObject.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\BytePropertyNode.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\BytePropertyNode.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CachedPropertyNode.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CachedPropertyNode.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CharIndexTranslator.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CharIndexTranslator.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CHPBinTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CHPBinTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CHPFormattedDiskPage.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CHPFormattedDiskPage.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CHPX.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CHPX.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ComplexFileTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ComplexFileTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\CPSplitCalculator.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\CPSplitCalculator.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\DocumentProperties.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\DocumentProperties.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\EscherRecordHolder.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\EscherRecordHolder.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Ffn.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Ffn.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FIBFieldHandler.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FIBFieldHandler.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FIBLongHandler.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FIBLongHandler.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FIBShortHandler.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FIBShortHandler.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FieldDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FieldDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FileInformationBlock.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FileInformationBlock.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FontTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FontTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FormattedDiskPage.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FormattedDiskPage.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FSPA.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FSPA.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\FSPATable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\FSPATable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\GenericPropertyNode.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\GenericPropertyNode.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\IO\HWPFFileSystem.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\IO\HWPFFileSystem.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\IO\HWPFOutputStream.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\IO\HWPFOutputStream.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ListData.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ListData.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ListFormatOverride.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ListFormatOverride.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ListFormatOverrideLevel.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ListFormatOverrideLevel.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ListLevel.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ListLevel.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ListTables.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ListTables.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\OldCHPBinTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\OldCHPBinTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\OldPAPBinTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\OldPAPBinTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\OldSectionTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\OldSectionTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PAPBinTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PAPBinTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PAPFormattedDiskPage.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PAPFormattedDiskPage.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PAPX.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PAPX.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ParagraphHeight.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ParagraphHeight.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PicturesTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PicturesTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PieceDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PieceDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PlexOfCps.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PlexOfCps.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\PropertyNode.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\PropertyNode.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\RevisionMarkAuthorTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\RevisionMarkAuthorTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\SavedByEntry.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\SavedByEntry.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\SavedByTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\SavedByTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\SectionDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\SectionDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\SectionTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\SectionTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\SEPX.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\SEPX.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\ShapesTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\ShapesTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\StyleDescription.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\StyleDescription.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\StyleSheet.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\StyleSheet.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\TextPiece.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\TextPiece.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\TextPieceTable.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\TextPieceTable.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\CHPAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\CHPAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\DOPAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\DOPAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\FIBAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\FIBAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\PAPAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\PAPAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\SEPAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\SEPAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\TAPAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\TAPAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\Types\TCAbstractType.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\Types\TCAbstractType.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\UnhandledDataStructure.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\UnhandledDataStructure.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Model\UPX.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Model\UPX.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\OldWordFileFormatException.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\OldWordFileFormatException.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\CharacterSprmCompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\CharacterSprmCompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\CharacterSprmUncompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\CharacterSprmUncompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\ParagraphSprmCompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\ParagraphSprmCompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\ParagraphSprmUncompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\ParagraphSprmUncompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SectionSprmCompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SectionSprmCompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SectionSprmUncompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SectionSprmUncompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SprmBuffer.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SprmBuffer.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SprmIterator.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SprmIterator.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SprmOperation.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SprmOperation.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SprmUncompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SprmUncompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\SprmUtils.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\SprmUtils.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\TableSprmCompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\TableSprmCompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\SPRM\TableSprmUncompressor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\SPRM\TableSprmUncompressor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\test.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\test.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\BorderCode.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\BorderCode.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\CharacterProperties.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\CharacterProperties.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\CharacterRun.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\CharacterRun.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\DateAndTime.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\DateAndTime.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\DocumentPosition.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\DocumentPosition.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\DropCapSpecifier.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\DropCapSpecifier.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\HeaderStories.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\HeaderStories.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\HWPFList.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\HWPFList.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\LineSpacingDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\LineSpacingDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\ListEntry.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\ListEntry.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Paragraph.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Paragraph.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\ParagraphProperties.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\ParagraphProperties.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Picture.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Picture.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Range.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Range.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Section.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Section.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\SectionProperties.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\SectionProperties.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\ShadingDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\ShadingDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Shape.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Shape.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\Table.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\Table.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\TableCell.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\TableCell.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\TableCellDescriptor.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\TableCellDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\TableIterator.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\TableIterator.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\TableProperties.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\TableProperties.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\UserModel\TableRow.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\HWPF\UserModel\TableRow.cs">
+</Event><Event ErrorLevel="0" Project="HWPF" Source="HWPF\HWPF.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="HWPF" Source="HWPF\HWPF.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\ExcelImage.csproj" Description="项目文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\ExcelImage.csproj">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Main.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Main.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Main.Designer.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Program.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Program.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\packages.config" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\packages.config">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Properties\Settings.settings" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Main.resx" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Main.resx">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\Properties\Resources.resx" Description="文件已成功备份为 E:\Temp\ExcelImage\ExcelImage\Backup\ExcelImage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ExcelImage" Source="ExcelImage\ExcelImage.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="ExcelImage" Source="ExcelImage\ExcelImage.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="ExcelImage.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ExcelImage.sln" Description="Converted">
+</Event></UpgradeLog>
